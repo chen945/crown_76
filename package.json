@@ -1,7 +1,7 @@
 {
   "name": "crown-76",
   "version": "0.0.0",
-  "homepage:crown_76"
+  "homepage:https://github.com/chen945/crown_76.git",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
